@@ -447,4 +447,3 @@ Zeitstempel der letzten Änderung. Wert wird bei jeder Aktualisierung durch VZD 
 
 * *telematikID* im VZD Basiseintrag: Wird aus dem Zertifikat befüllt. Kann in dem REST Interface zwar angegeben, aber nicht auf einen anderen Wert geändert werden.
 
-|===
