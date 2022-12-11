@@ -2,6 +2,7 @@
 
 Überblick über alle gematik APIs
 
-* xref:api-ti-messenger:ROOT:[]
-* xref:api-directory-ldap:ROOT:index.adoc[]
-* xref:api-directory-fhir:ROOT:index.adoc[]
+* xref:ROOT:index.adoc[Telematik API]
+* xref:api-ti-messenger:ROOT:index.adoc[TI-Messenger API]
+* xref:api-directory-ldap:ROOT:index.adoc[LDAP Directory API]
+* xref:api-directory-fhir:ROOT:index.adoc[FHIR Directory API]
