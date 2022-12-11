@@ -2,6 +2,6 @@
 
 Überblick über alle gematik APIs
 
-* xref:api-ti-messenger:ROOT:index.adoc[]
+* xref:api-ti-messenger:ROOT:[]
 * xref:api-directory-ldap:ROOT:index.adoc[]
 * xref:api-directory-fhir:ROOT:index.adoc[]
