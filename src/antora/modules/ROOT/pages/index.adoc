@@ -1,5 +1,3 @@
-= Start
+= Einführung
 
-Hello World!
-
-Hello again.
+TI-Messenger Inhalte werden hier sein.
