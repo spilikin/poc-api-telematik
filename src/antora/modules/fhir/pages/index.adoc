@@ -1,3 +1,0 @@
-= FHIR Directory
-
-HL7 FHIR Directory

@@ -1,4 +1,4 @@
 * xref:index.adoc[]
-** xref:Attributen.adoc[]
-** xref:Regeln.adoc[]
-** xref:Darstellung.adoc[]
+* xref:Attributen.adoc[]
+* xref:Regeln.adoc[]
+* xref:Darstellung.adoc[]
