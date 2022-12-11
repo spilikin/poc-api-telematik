@@ -1,0 +1,29 @@
+= Darstellungsbeispiele
+
+|===
+^| Typ | Name | Nachname | Vorname | Adresse | PLZ | Ort
+
+^| 🏥
+| Praxis Helga Freifrau Mondwürfel
+|
+|
+| Bahnhof Str. 13
+| 91234
+| Nürnberg
+
+^| 👩‍⚕️
+| Oldenburg, Petra
+| Oldenburg
+| Petra
+| Hallesches Ufer 21
+| 88451
+| Dettingen
+
+^| `personalEntry`
+| `displayName`
+| `sn`
+| `givenName`
+| `street`
+| `postalCode`
+| `localityName`
+|===
