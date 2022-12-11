@@ -1,2 +1,3 @@
 * xref:index.adoc[]
-  * xref:attributes.adoc[]
+** xref:Attributen.adoc[]
+** xref:Regeln.adoc[]
