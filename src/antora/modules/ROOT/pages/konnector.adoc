@@ -1,0 +1,3 @@
+= Konnektor API
+
+Hier beschreiben wir wie man Konnektorschnittstellen ansteuert.

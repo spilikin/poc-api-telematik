@@ -4,3 +4,4 @@ version: 5.5.0
 start_page: index.adoc
 nav:
 - modules/overview/nav.adoc
+- modules/ROOT/nav.adoc
