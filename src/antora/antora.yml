@@ -1,7 +1,6 @@
-name: api-directory-ldap
-title: LDAP Directory API
-version: 2.0.0
+name: api-directory-fhir
+title: FHIR Directory API
+version: 1.0.0
 start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
-
