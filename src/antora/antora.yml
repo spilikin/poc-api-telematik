@@ -1,7 +1,7 @@
 name: api-telematik 
 title: Telematik API
 version: 5.5.0
-start_page: index.adoc
+start_page: overview:index.adoc
 nav:
 - modules/overview/nav.adoc
 - modules/ROOT/nav.adoc
