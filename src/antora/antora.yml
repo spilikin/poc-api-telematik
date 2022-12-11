@@ -6,7 +6,7 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
-#nav:
-#- modules/ldap/nav.adoc
-#- modules/fhir/nav.adoc
+nav:
+- modules/ldap/nav.adoc
+- modules/fhir/nav.adoc
 
