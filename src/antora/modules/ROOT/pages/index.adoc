@@ -1,5 +1,16 @@
 = E-Rezept API-Dokumentation
 
+.Simplifier Ressourcen können wie folgt referenziert werden
+[source,asciidoc]
+----
+simplifier::render[project=erezept-workflow,resource=gem_erp_pr_task]
+----
+
+== Task Resource
+
+simplifier::render[project=erezept-workflow,resource=gem_erp_pr_task]
+
+
 Hier dokumentiert die gematik die Nutzung der Schnittstellen rund um das E-Rezept.
 
 Die gematik geht neue Wege und möchte auf diesem Weg die Nutzung der Schnittstellen rund um das E-Rezept vorstellen. Die Beschreibung dieser API ergänzt die normativen Dokumente der gematik sowie die Festlegungen über die [E-Rezept-Profile (inkl. Beispielen)](https://simplifier.net/erezept-workflow) des genutzten FHIR-Standards.
