@@ -265,7 +265,7 @@ Der Wertebereich für `specialization` entspricht den in HL7 definierten und fü
 * https://github.com/gematik/api-ePA/blob/master/src/vocabulary/value_sets/vs-author-specialty.xml[Normatives ValueSet für ePA]
 
 Bildungsregel: +
-`urn:as:{OID Codesystem}:{Code}`
+`urn:as:<OID Codesystem>:<Code>`
 
 Beispiel für Facharzt Allgemeinmedizin: +
 `urn:as:1.2.276.0.76.5.114:010`
@@ -281,7 +281,7 @@ Weitere Ressourcen:
 * https://github.com/hl7germany/de.basisprofil.terminology/blob/3917ab759560993f9486562af6811765e357b8fc/input/fsh/codesystems/NichtAerztlicheFachrichtungenIHEXDS.fsh[http://ihe-d.de/CodeSystems/NichtaerztlicheFachrichtungen]
 
 Bildungsregel: +
-`urn:psc:{OID Codesystem}:{Code}`
+`urn:psc:<OID Codesystem>:<Code>`
 
 Beispiel für Allgemeinmedizin: +
 `urn:psc:1.3.6.1.4.1.19376.3.276.1.5.4:ALLG`
