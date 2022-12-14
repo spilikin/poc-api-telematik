@@ -7,7 +7,17 @@
 :toclevels: 3
 :toc-title: Inhaltsverzeichnis
 
-= image:images/gematik_logo.png[width=35%] E-Rezept API-Dokumentation
+.Simplifier Ressourcen können wie folgt referenziert werden
+[source,asciidoc]
+----
+simplifier::render[project=erezept-workflow,resource=gem_erp_pr_task]
+----
+
+== Task Resource
+
+simplifier::render[project=erezept-workflow,resource=gem_erp_pr_task]
+
+
 Hier dokumentiert die gematik die Nutzung der Schnittstellen rund um das E-Rezept.
 
 // configure DE settings for asciidoc
